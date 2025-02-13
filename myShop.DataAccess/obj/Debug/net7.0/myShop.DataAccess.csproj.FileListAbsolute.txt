@@ -1,0 +1,11 @@
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.DataAccess.deps.json
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.DataAccess.dll
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.DataAccess.pdb
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.AssemblyInfoInputs.cache
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.AssemblyInfo.cs
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.csproj.CoreCompileInputs.cache
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.dll
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\refint\myShop.DataAccess.dll
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.pdb
+E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\ref\myShop.DataAccess.dll

@@ -1,0 +1,11 @@
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.deps.json
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.dll
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.pdb
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.AssemblyInfoInputs.cache
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.AssemblyInfo.cs
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.csproj.CoreCompileInputs.cache
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.dll
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\refint\myShop.Entities.dll
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.pdb
+E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\ref\myShop.Entities.dll

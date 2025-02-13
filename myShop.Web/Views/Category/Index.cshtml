@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Category>
+
+<a asp-action="Create" asp-controller="Category" class="btn btn-success">create </a>
+<table class="table table-hover" width="100%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Created</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model){
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.CreatedTime</td>
+                <td>
+                    <a class="btn btn-success" href="/Category/Edit/@item.Id">Edit</a>
+                    <a class="btn btn-danger" href="/Category/Delete/@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
