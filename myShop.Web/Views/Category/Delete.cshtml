@@ -1,4 +1,9 @@
 ﻿@model Category
+@{
+    ViewBag.PageTitle = "Categories Managment";
+    ViewBag.CardTitle = "Delete Category";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
 <h1>Edit</h1>
 <form method="post" asp-action="Delete" asp-controller="Category">
     <input hidden asp-for="Id" />
@@ -15,7 +20,9 @@
     </div>
     <div class="mb-3">
         <button type="submit" class="btn btn-danger">Delete</button>
-        <button asp-action="Index" asp-controller="Category" class="btn btn-warning">Back</button>
+    </div>
+    <div class="mb-3">
+        <a asp-action="Index" asp-controller="Category">Back</a>
     </div>
 </form>
 

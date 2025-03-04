@@ -31,6 +31,7 @@ namespace myShop.Web.Controllers
                 _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }
+            TempData["create"] = "category created sucssfully"; 
             return View(category);
         }
         [HttpGet]

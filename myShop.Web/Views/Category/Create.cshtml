@@ -1,5 +1,9 @@
 ﻿@model Category
-<h1>Create</h1>
+@{
+    ViewBag.PageTitle = "Categories Managment";
+    ViewBag.CardTitle = "Create Category";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
 <form method="post" asp-action="Create" asp-controller="Category">
     <div class="mb-3">
         <label asp-for="Name"></label>
@@ -10,11 +14,12 @@
         <label asp-for="Description"></label>
         <input asp-for="Description" />
         <span asp-validation-for="Description" class="text-danger"></span>
-
     </div>
     <div class="mb-3">
         <button type="submit" class="btn btn-primary">Create</button>
-        <a asp-action="Index" asp-controller="Category" class="btn btn-warning">Back</a>
+    </div>
+    <div class="mb-3">
+        <a asp-action="Index" asp-controller="Category">Back</a>
     </div>
 </form>
 

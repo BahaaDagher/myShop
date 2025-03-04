@@ -1,6 +1,10 @@
 ﻿@model IEnumerable<Category>
-
-<a asp-action="Create" asp-controller="Category" class="btn btn-success">create </a>
+@{
+    ViewBag.PageTitle = "Categorie Managment";
+    ViewBag.CardTitle = "Categories";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<a asp-action="Create" asp-controller="Category" class="btn btn-primary">create </a>
 <table class="table table-hover" width="100%">
     <thead>
         <tr>

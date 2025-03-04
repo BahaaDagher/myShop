@@ -1,5 +1,9 @@
 ﻿@model Category
-<h1>Edit</h1>
+@{
+    ViewBag.PageTitle = "Categorie Managment";
+    ViewBag.CardTitle = "Edit Category";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
 <form method="post" asp-action="Edit" asp-controller="Category">
     <input hidden asp-for="Id" />
     <div class="mb-3">
@@ -14,8 +18,10 @@
 
     </div>
     <div class="mb-3">
-        <button type="submit" class="btn btn-primary">Edit</button>
-        <a asp-action="Index" asp-controller="Category" class="btn btn-warning">Back</a>
+        <button type="submit" class="btn btn-success">Edit</button>
+    </div>
+    <div class ="mb-3">
+        <a asp-action="Index" asp-controller="Category">Back</a>
     </div>
 </form>
 

@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\wwwroot\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\shared\\_toastr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_toastr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|e:\\web\\.netiti\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +58,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "demo.js",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\wwwroot\\js\\demo.js",
+              "RelativeDocumentMoniker": "myShop.Web\\wwwroot\\js\\demo.js",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\wwwroot\\js\\demo.js",
+              "RelativeToolTip": "myShop.Web\\wwwroot\\js\\demo.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-04T11:47:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Toastr.cshtml",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T11:18:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T10:23:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "myShop.Web\\Models\\Category.cs",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Models\\Category.cs",
+              "RelativeToolTip": "myShop.Web\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:22:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:22:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:17:47.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:10:53.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAWwBUBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:01:41.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "myShop.Web\\Views\\Category\\Create.cshtml",
               "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "myShop.Web\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-13T10:02:07.683Z",
               "EditorCaption": ""
@@ -40,32 +182,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "myShop.Web\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "myShop.Web\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T10:01:52.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "myShop.Web\\Controllers\\CategoryController.cs",
               "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "myShop.Web\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA4wEQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T09:57:33.485Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "myShop.Web\\wwwroot\\favicon.ico",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "myShop.Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-02-16T10:30:41.618Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T10:01:52.519Z",
+              "EditorCaption": ""
             }
           ]
         }
