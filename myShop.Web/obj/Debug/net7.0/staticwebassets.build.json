@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qkramZDRhryjrH4PpEj1T39GZChXmdasdDGZHtdhFLU=",
+  "Hash": "qRZUnjcSttuyM36uyIGbDnnlKnQRQNCesYa2R0rl8c4=",
   "Source": "myShop.Web",
   "BasePath": "_content/myShop.Web",
   "Mode": "Default",
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rlwfjvtqs3",
-      "Integrity": "MY601dyrQCXjvtxhLlJQoBnot5+bMYvjECTx22MOeII=",
+      "Fingerprint": "1ejwfivaes",
+      "Integrity": "127ZWbBWODHxYsGgDuDLx0CwvrETMP9VelJU5Ux0S/U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\demo.js"
@@ -9270,6 +9270,51 @@
       ]
     },
     {
+      "Route": "js/demo.1ejwfivaes.js",
+      "AssetFile": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\wwwroot\\js\\demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"127ZWbBWODHxYsGgDuDLx0CwvrETMP9VelJU5Ux0S/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 11:52:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ejwfivaes"
+        },
+        {
+          "Name": "label",
+          "Value": "js/demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-127ZWbBWODHxYsGgDuDLx0CwvrETMP9VelJU5Ux0S/U="
+        }
+      ]
+    },
+    {
       "Route": "js/demo.js",
       "AssetFile": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\wwwroot\\js\\demo.js",
       "Selectors": [],
@@ -9280,7 +9325,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22628"
+          "Value": "22642"
         },
         {
           "Name": "Content-Type",
@@ -9288,11 +9333,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MY601dyrQCXjvtxhLlJQoBnot5+bMYvjECTx22MOeII=\""
+          "Value": "\"127ZWbBWODHxYsGgDuDLx0CwvrETMP9VelJU5Ux0S/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+          "Value": "Tue, 04 Mar 2025 11:52:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9302,52 +9347,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MY601dyrQCXjvtxhLlJQoBnot5+bMYvjECTx22MOeII="
-        }
-      ]
-    },
-    {
-      "Route": "js/demo.rlwfjvtqs3.js",
-      "AssetFile": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\wwwroot\\js\\demo.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22628"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MY601dyrQCXjvtxhLlJQoBnot5+bMYvjECTx22MOeII=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rlwfjvtqs3"
-        },
-        {
-          "Name": "label",
-          "Value": "js/demo.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MY601dyrQCXjvtxhLlJQoBnot5+bMYvjECTx22MOeII="
+          "Value": "sha256-127ZWbBWODHxYsGgDuDLx0CwvrETMP9VelJU5Ux0S/U="
         }
       ]
     },

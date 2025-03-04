@@ -29,9 +29,9 @@ namespace myShop.Web.Controllers
             {
                 _context.Categories.Add(category);
                 _context.SaveChanges();
+                TempData["create"] = "category created successfully"; 
                 return RedirectToAction(nameof(Index));
             }
-            TempData["create"] = "category created sucssfully"; 
             return View(category);
         }
         [HttpGet]
@@ -53,6 +53,7 @@ namespace myShop.Web.Controllers
             {
                 _context.Categories.Update(category);
                 _context.SaveChanges();
+                TempData["edit"] = "category edited successfully";
                 return RedirectToAction(nameof(Index));
             }
             return View(category);
@@ -73,6 +74,7 @@ namespace myShop.Web.Controllers
         {
             _context.Categories.Remove(category);
             _context.SaveChanges();
+            TempData["remove"] = "category Removed successfully";
             return RedirectToAction(nameof(Index));
         }
     }
