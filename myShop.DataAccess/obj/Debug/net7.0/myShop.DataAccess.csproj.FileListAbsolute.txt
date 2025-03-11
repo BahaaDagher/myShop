@@ -9,3 +9,21 @@ E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.Data
 E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\refint\myShop.DataAccess.dll
 E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.pdb
 E:\web\.netITI\MVC\project\myShop\myShop.DataAccess\obj\Debug\net7.0\ref\myShop.DataAccess.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.DataAccess.deps.json
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.DataAccess.runtimeconfig.json
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.DataAccess.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.DataAccess.pdb
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.Entities.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\bin\Debug\net7.0\myShop.Entities.pdb
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.csproj.AssemblyReference.cache
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.AssemblyInfoInputs.cache
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.AssemblyInfo.cs
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.sourcelink.json
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.D.BF31A137.Up2Date
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\refint\myShop.DataAccess.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.pdb
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\myShop.DataAccess.genruntimeconfig.cache
+D:\data\MVC\project\myShop GitHub\myShop\myShop.DataAccess\obj\Debug\net7.0\ref\myShop.DataAccess.dll

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using myShop.Web.Data;
-using myShop.Web.Models;
+using myShop.DataAccess;
+using myShop.Entities.Models;
 
 namespace myShop.Web.Controllers
 {

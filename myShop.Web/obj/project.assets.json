@@ -3890,6 +3890,31 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "myShop.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.11",
+          "myShop.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/myShop.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/myShop.DataAccess.dll": {}
+        }
+      },
+      "myShop.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/myShop.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/myShop.Entities.dll": {}
+        }
       }
     }
   },
@@ -11267,6 +11292,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "myShop.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../myShop.DataAccess/myShop.DataAccess.csproj",
+      "msbuildProject": "../myShop.DataAccess/myShop.DataAccess.csproj"
+    },
+    "myShop.Entities/1.0.0": {
+      "type": "project",
+      "path": "../myShop.Entities/myShop.Entities.csproj",
+      "msbuildProject": "../myShop.Entities/myShop.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11275,7 +11310,9 @@
       "Microsoft.EntityFrameworkCore >= 7.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.11",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.12"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.12",
+      "myShop.DataAccess >= 1.0.0",
+      "myShop.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11285,11 +11322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\myShop.Web.csproj",
+      "projectUniqueName": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\myShop.Web.csproj",
       "projectName": "myShop.Web",
-      "projectPath": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\myShop.Web.csproj",
+      "projectPath": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\myShop.Web.csproj",
       "packagesPath": "C:\\Users\\Bahaa Dagher\\.nuget\\packages\\",
-      "outputPath": "E:\\web\\.netITI\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\obj\\",
+      "outputPath": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11309,7 +11346,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\myShop.DataAccess.csproj": {
+              "projectPath": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\myShop.DataAccess.csproj"
+            },
+            "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\myShop.Entities.csproj": {
+              "projectPath": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\myShop.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -11322,7 +11366,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net7.0": {
@@ -11370,7 +11414,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

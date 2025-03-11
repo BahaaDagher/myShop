@@ -9,3 +9,27 @@ E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entiti
 E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\refint\myShop.Entities.dll
 E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.pdb
 E:\web\.netITI\MVC\project\myShop\myShop.Entities\obj\Debug\net7.0\ref\myShop.Entities.dll
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.deps.json
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.dll
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.pdb
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.AssemblyInfoInputs.cache
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.AssemblyInfo.cs
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.csproj.CoreCompileInputs.cache
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.sourcelink.json
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.dll
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\refint\myShop.Entities.dll
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.pdb
+E:\1-web\.netITI\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\ref\myShop.Entities.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.deps.json
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\bin\Debug\net7.0\myShop.Entities.pdb
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.AssemblyInfoInputs.cache
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.AssemblyInfo.cs
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.csproj.CoreCompileInputs.cache
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.sourcelink.json
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\refint\myShop.Entities.dll
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\myShop.Entities.pdb
+D:\data\MVC\project\myShop GitHub\myShop\myShop.Entities\obj\Debug\net7.0\ref\myShop.Entities.dll
