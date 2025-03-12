@@ -3,6 +3,86 @@
   "WorkspaceRootPath": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\shared\\_toastr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_toastr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.dataaccess\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.dataaccess\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD1CAC-98CF-4C33-8D50-32D42A4F86AF}|myShop.Entities\\myShop.Entities.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.entities\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD1CAC-98CF-4C33-8D50-32D42A4F86AF}|myShop.Entities\\myShop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD1CAC-98CF-4C33-8D50-32D42A4F86AF}|myShop.Entities\\myShop.Entities.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.entities\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD1CAC-98CF-4C33-8D50-32D42A4F86AF}|myShop.Entities\\myShop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.dataaccess\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD1CAC-98CF-4C33-8D50-32D42A4F86AF}|myShop.Entities\\myShop.Entities.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD1CAC-98CF-4C33-8D50-32D42A4F86AF}|myShop.Entities\\myShop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.dataaccess\\myshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\myshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.web\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DDF55D-8CE9-41F6-A5E9-51120EF85678}|myShop.Web\\myShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|d:\\data\\mvc\\project\\myshop github\\myshop\\myshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C520CBB1-BD25-4C2F-A47D-D3532EC5F88F}|myShop.DataAccess\\myShop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,15 +106,261 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "myShop.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T12:23:45.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "myShop.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T12:23:08.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "myShop.Web\\Program.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Program.cs",
+              "RelativeToolTip": "myShop.Web\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:35:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "myShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "myShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:34:43.987Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "myShop.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:53:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "myShop.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:54:01.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "myShop.Web\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:54:01.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "myShop.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "myShop.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-12T12:18:56.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Toastr.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Shared\\_Toastr.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T12:09:29.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:54:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "myShop.DataAccess\\implementation\\CategoryRepository.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "myShop.DataAccess\\implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:14:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "myShop.DataAccess\\implementation\\GenericRepository.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\implementation\\GenericRepository.cs",
+              "RelativeToolTip": "myShop.DataAccess\\implementation\\GenericRepository.cs",
+              "ViewState": "AgIAABgAAACAAQAAAAAUwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:07:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "myShop.Entities\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "myShop.Entities\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:00:25.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "myShop.Entities\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "myShop.Entities\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:52:58.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "myShop.DataAccess\\implementation\\UnitOfWork.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "myShop.DataAccess\\implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:52:24.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "myShop.Entities\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "myShop.Entities\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:49:38.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "myShop.DataAccess.csproj",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\myShop.DataAccess.csproj",
+              "RelativeDocumentMoniker": "myShop.DataAccess\\myShop.DataAccess.csproj",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\myShop.DataAccess.csproj",
+              "RelativeToolTip": "myShop.DataAccess\\myShop.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T13:06:58.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:54:13.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "myShop.Web\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:54:00.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "myShop.Web\\Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAnwPcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T11:48:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "myShop.DataAccess\\Data\\ApplicationDbContext.cs",
@@ -42,12 +368,11 @@
               "RelativeToolTip": "myShop.DataAccess\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:01:34.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T10:01:34.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
               "Title": "20250212121031_addCategoryTable.Designer.cs",
               "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\Migrations\\20250212121031_addCategoryTable.Designer.cs",
               "RelativeDocumentMoniker": "myShop.DataAccess\\Migrations\\20250212121031_addCategoryTable.Designer.cs",
@@ -59,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "20250212121031_addCategoryTable.cs",
               "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\Migrations\\20250212121031_addCategoryTable.cs",
               "RelativeDocumentMoniker": "myShop.DataAccess\\Migrations\\20250212121031_addCategoryTable.cs",
@@ -71,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\data\\MVC\\project\\myShop GitHub\\myShop\\myShop.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "myShop.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
